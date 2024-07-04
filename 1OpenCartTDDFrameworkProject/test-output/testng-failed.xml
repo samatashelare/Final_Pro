@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [RegressionSuite]" guice-stage="DEVELOPMENT">
+  <listeners>
+    <listener class-name="com.opencart.utility.ListenersSetup"/>
+    <listener class-name="com.opencart.utility.ExtentReporterNG"/>
+  </listeners>
+  <test name="Test(failed)">
+    <classes>
+      <class name="com.opencart.testCases.RegisterTest">
+        <methods>
+          <include name="browserSetUp"/>
+          <include name="verifyRegisterTestWithValidDetails"/>
+          <include name="start"/>
+          <include name="end"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.opencart.testCases.RegisterTest -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [RegressionSuite] -->

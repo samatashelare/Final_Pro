@@ -1,0 +1,513 @@
+2024-06-12 21:10:23,402 [main] INFO OpenCart Framework - Framework Execution Started
+2024-06-12 21:10:27,349 [main] INFO OpenCart Framework - Browser is launching
+2024-06-12 21:10:27,361 [main] INFO OpenCart Framework - onTestStart :- verifyLoginTestWithInvalidDetails
+2024-06-12 21:10:28,969 [main] INFO OpenCart Framework - onTestSuccess :- verifyLoginTestWithInvalidDetails
+2024-06-12 21:10:29,305 [main] INFO OpenCart Framework - end
+2024-06-12 21:10:32,108 [main] INFO OpenCart Framework - Browser is launching
+2024-06-12 21:10:32,110 [main] INFO OpenCart Framework - onTestStart :- verifyLoginTestWithValidDetails
+2024-06-12 21:10:33,862 [main] INFO OpenCart Framework - onTestSuccess :- verifyLoginTestWithValidDetails
+2024-06-12 21:10:34,141 [main] INFO OpenCart Framework - end
+2024-06-12 21:10:37,012 [main] INFO OpenCart Framework - Browser is launching
+2024-06-12 21:10:37,014 [main] INFO OpenCart Framework - onTestStart :- verifyRegisterTestWithInvalidEmailDetails
+2024-06-12 21:10:38,955 [main] INFO OpenCart Framework - onTestSuccess :- verifyRegisterTestWithInvalidEmailDetails
+2024-06-12 21:10:39,230 [main] INFO OpenCart Framework - end
+2024-06-12 21:10:43,108 [main] INFO OpenCart Framework - Browser is launching
+2024-06-12 21:10:43,110 [main] INFO OpenCart Framework - onTestStart :- verifyRegisterTestWithInvalidPasswordDetails
+2024-06-12 21:10:44,985 [main] INFO OpenCart Framework - onTestSuccess :- verifyRegisterTestWithInvalidPasswordDetails
+2024-06-12 21:10:45,318 [main] INFO OpenCart Framework - end
+2024-06-12 21:10:48,489 [main] INFO OpenCart Framework - Browser is launching
+2024-06-12 21:10:48,492 [main] INFO OpenCart Framework - onTestStart :- verifyRegisterTestWithValidDetails
+2024-06-12 21:10:50,828 [main] INFO OpenCart Framework - onTestFailure :- verifyRegisterTestWithValidDetails
+2024-06-12 21:10:51,399 [main] INFO OpenCart Framework - end
+2024-06-12 21:10:51,400 [main] INFO OpenCart Framework - Framework Execution End
+2024-06-12 21:21:32,260 [main] INFO OpenCart Framework - Framework Execution Started
+2024-06-12 21:21:35,797 [main] INFO OpenCart Framework - Browser is launching
+2024-06-12 21:21:35,814 [main] INFO OpenCart Framework - onTestStart :- verifyLoginTestWithInvalidDetails
+2024-06-12 21:21:36,543 [main] INFO OpenCart Framework - navigated to Login page
+2024-06-12 21:21:37,228 [main] INFO OpenCart Framework - Logined in successfully
+2024-06-12 21:21:37,281 [main] INFO OpenCart Framework - onTestSuccess :- verifyLoginTestWithInvalidDetails
+2024-06-12 21:21:37,632 [main] INFO OpenCart Framework - end
+2024-06-12 21:21:40,794 [main] INFO OpenCart Framework - Browser is launching
+2024-06-12 21:21:40,796 [main] INFO OpenCart Framework - onTestStart :- verifyLoginTestWithValidDetails
+2024-06-12 21:21:41,507 [main] INFO OpenCart Framework - navigated to Login page
+2024-06-12 21:21:42,344 [main] INFO OpenCart Framework - Logined in successfully
+2024-06-12 21:21:42,367 [main] INFO OpenCart Framework - onTestSuccess :- verifyLoginTestWithValidDetails
+2024-06-12 21:21:42,630 [main] INFO OpenCart Framework - end
+2024-06-12 21:21:45,617 [main] INFO OpenCart Framework - Browser is launching
+2024-06-12 21:21:45,619 [main] INFO OpenCart Framework - onTestStart :- verifyRegisterTestWithInvalidEmailDetails
+2024-06-12 21:21:46,298 [main] INFO OpenCart Framework - navigate to Register Page 
+2024-06-12 21:21:47,466 [main] INFO OpenCart Framework - user register successfully..
+2024-06-12 21:21:47,524 [main] INFO OpenCart Framework - onTestSuccess :- verifyRegisterTestWithInvalidEmailDetails
+2024-06-12 21:21:47,794 [main] INFO OpenCart Framework - end
+2024-06-12 21:21:50,730 [main] INFO OpenCart Framework - Browser is launching
+2024-06-12 21:21:50,736 [main] INFO OpenCart Framework - onTestStart :- verifyRegisterTestWithInvalidPasswordDetails
+2024-06-12 21:21:51,485 [main] INFO OpenCart Framework - navigate to Register Page 
+2024-06-12 21:21:52,730 [main] INFO OpenCart Framework - user register successfully..
+2024-06-12 21:21:52,776 [main] INFO OpenCart Framework - onTestSuccess :- verifyRegisterTestWithInvalidPasswordDetails
+2024-06-12 21:21:53,096 [main] INFO OpenCart Framework - end
+2024-06-12 21:21:56,194 [main] INFO OpenCart Framework - Browser is launching
+2024-06-12 21:21:56,206 [main] INFO OpenCart Framework - onTestStart :- verifyRegisterTestWithValidDetails
+2024-06-12 21:21:57,020 [main] INFO OpenCart Framework - navigate to Register Page 
+2024-06-12 21:21:58,205 [main] INFO OpenCart Framework - user register successfully..
+2024-06-12 21:21:58,252 [main] INFO OpenCart Framework - onTestFailure :- verifyRegisterTestWithValidDetails
+2024-06-12 21:21:58,668 [main] INFO OpenCart Framework - end
+2024-06-12 21:21:58,673 [main] INFO OpenCart Framework - Framework Execution End
+12 Jun 2024 21:27:32,857 [main] INFO OpenCart Framework - Framework Execution Started
+12 Jun 2024 21:27:36,366 [main] INFO OpenCart Framework - Browser is launching
+12 Jun 2024 21:27:36,377 [main] INFO OpenCart Framework - onTestStart :- verifyLoginTestWithInvalidDetails
+12 Jun 2024 21:27:37,109 [main] INFO OpenCart Framework - navigated to Login page
+12 Jun 2024 21:27:37,775 [main] INFO OpenCart Framework - Logined in successfully
+12 Jun 2024 21:27:37,848 [main] INFO OpenCart Framework - onTestSuccess :- verifyLoginTestWithInvalidDetails
+12 Jun 2024 21:27:38,221 [main] INFO OpenCart Framework - end
+12 Jun 2024 21:27:41,134 [main] INFO OpenCart Framework - Browser is launching
+12 Jun 2024 21:27:41,136 [main] INFO OpenCart Framework - onTestStart :- verifyLoginTestWithValidDetails
+12 Jun 2024 21:27:41,846 [main] INFO OpenCart Framework - navigated to Login page
+12 Jun 2024 21:27:42,713 [main] INFO OpenCart Framework - Logined in successfully
+12 Jun 2024 21:27:42,734 [main] INFO OpenCart Framework - onTestSuccess :- verifyLoginTestWithValidDetails
+12 Jun 2024 21:27:43,011 [main] INFO OpenCart Framework - end
+12 Jun 2024 21:27:45,899 [main] INFO OpenCart Framework - Browser is launching
+12 Jun 2024 21:27:45,903 [main] INFO OpenCart Framework - onTestStart :- verifyRegisterTestWithInvalidEmailDetails
+12 Jun 2024 21:27:46,812 [main] INFO OpenCart Framework - navigate to Register Page 
+12 Jun 2024 21:27:47,932 [main] INFO OpenCart Framework - user register successfully..
+12 Jun 2024 21:27:47,979 [main] INFO OpenCart Framework - onTestSuccess :- verifyRegisterTestWithInvalidEmailDetails
+12 Jun 2024 21:27:48,298 [main] INFO OpenCart Framework - end
+12 Jun 2024 21:27:51,198 [main] INFO OpenCart Framework - Browser is launching
+12 Jun 2024 21:27:51,201 [main] INFO OpenCart Framework - onTestStart :- verifyRegisterTestWithInvalidPasswordDetails
+12 Jun 2024 21:27:51,881 [main] INFO OpenCart Framework - navigate to Register Page 
+12 Jun 2024 21:27:53,034 [main] INFO OpenCart Framework - user register successfully..
+12 Jun 2024 21:27:53,081 [main] INFO OpenCart Framework - onTestSuccess :- verifyRegisterTestWithInvalidPasswordDetails
+12 Jun 2024 21:27:53,342 [main] INFO OpenCart Framework - end
+12 Jun 2024 21:27:56,303 [main] INFO OpenCart Framework - Browser is launching
+12 Jun 2024 21:27:56,328 [main] INFO OpenCart Framework - onTestStart :- verifyRegisterTestWithValidDetails
+12 Jun 2024 21:27:57,134 [main] INFO OpenCart Framework - navigate to Register Page 
+12 Jun 2024 21:27:58,333 [main] INFO OpenCart Framework - user register successfully..
+12 Jun 2024 21:27:58,397 [main] INFO OpenCart Framework - onTestFailure :- verifyRegisterTestWithValidDetails
+12 Jun 2024 21:27:58,859 [main] INFO OpenCart Framework - end
+12 Jun 2024 21:27:58,861 [main] INFO OpenCart Framework - Framework Execution End
+2024-06-12 21:06:945 [main] INFO OpenCart Framework - Framework Execution Started
+2024-06-12 21:06:568 [main] INFO OpenCart Framework - Browser is launching
+2024-06-12 21:06:583 [main] INFO OpenCart Framework - onTestStart :- verifyLoginTestWithInvalidDetails
+2024-06-12 21:06:253 [main] INFO OpenCart Framework - navigated to Login page
+2024-06-12 21:06:967 [main] INFO OpenCart Framework - Logined in successfully
+2024-06-12 21:06:36 [main] INFO OpenCart Framework - onTestSuccess :- verifyLoginTestWithInvalidDetails
+2024-06-12 21:06:346 [main] INFO OpenCart Framework - end
+2024-06-12 21:06:61 [main] INFO OpenCart Framework - Browser is launching
+2024-06-12 21:06:62 [main] INFO OpenCart Framework - onTestStart :- verifyLoginTestWithValidDetails
+2024-06-12 21:06:982 [main] INFO OpenCart Framework - navigated to Login page
+2024-06-12 21:06:814 [main] INFO OpenCart Framework - Logined in successfully
+2024-06-12 21:06:832 [main] INFO OpenCart Framework - onTestSuccess :- verifyLoginTestWithValidDetails
+2024-06-12 21:06:89 [main] INFO OpenCart Framework - end
+2024-06-12 21:06:77 [main] INFO OpenCart Framework - Browser is launching
+2024-06-12 21:06:81 [main] INFO OpenCart Framework - onTestStart :- verifyRegisterTestWithInvalidEmailDetails
+2024-06-12 21:06:990 [main] INFO OpenCart Framework - navigate to Register Page 
+2024-06-12 21:06:195 [main] INFO OpenCart Framework - user register successfully..
+2024-06-12 21:06:260 [main] INFO OpenCart Framework - onTestSuccess :- verifyRegisterTestWithInvalidEmailDetails
+2024-06-12 21:06:568 [main] INFO OpenCart Framework - end
+2024-06-12 21:06:534 [main] INFO OpenCart Framework - Browser is launching
+2024-06-12 21:06:545 [main] INFO OpenCart Framework - onTestStart :- verifyRegisterTestWithInvalidPasswordDetails
+2024-06-12 21:06:446 [main] INFO OpenCart Framework - navigate to Register Page 
+2024-06-12 21:06:693 [main] INFO OpenCart Framework - user register successfully..
+2024-06-12 21:06:743 [main] INFO OpenCart Framework - onTestSuccess :- verifyRegisterTestWithInvalidPasswordDetails
+2024-06-12 21:06:981 [main] INFO OpenCart Framework - end
+2024-06-12 21:06:995 [main] INFO OpenCart Framework - Browser is launching
+2024-06-12 21:06:00 [main] INFO OpenCart Framework - onTestStart :- verifyRegisterTestWithValidDetails
+2024-06-12 21:06:738 [main] INFO OpenCart Framework - navigate to Register Page 
+2024-06-12 21:06:973 [main] INFO OpenCart Framework - user register successfully..
+2024-06-12 21:06:24 [main] INFO OpenCart Framework - onTestFailure :- verifyRegisterTestWithValidDetails
+2024-06-12 21:06:583 [main] INFO OpenCart Framework - end
+2024-06-12 21:06:585 [main] INFO OpenCart Framework - Framework Execution End
+12 Jun 2024 22:45:52,821 [main] INFO OpenCart Framework - Framework Execution Started
+12 Jun 2024 22:45:57,321 [main] INFO OpenCart Framework - Browser is launching
+12 Jun 2024 22:45:57,333 [main] INFO OpenCart Framework - onTestStart :- verifyLoginTestWithInvalidDetails
+12 Jun 2024 22:45:58,104 [main] INFO OpenCart Framework - navigated to Login page
+12 Jun 2024 22:45:58,851 [main] INFO OpenCart Framework - Logined in successfully
+12 Jun 2024 22:45:58,923 [main] INFO OpenCart Framework - onTestSuccess :- verifyLoginTestWithInvalidDetails
+12 Jun 2024 22:45:59,236 [main] INFO OpenCart Framework - end
+12 Jun 2024 22:46:01,928 [main] INFO OpenCart Framework - Browser is launching
+12 Jun 2024 22:46:01,932 [main] INFO OpenCart Framework - onTestStart :- verifyLoginTestWithValidDetails
+12 Jun 2024 22:46:02,642 [main] INFO OpenCart Framework - navigated to Login page
+12 Jun 2024 22:46:03,478 [main] INFO OpenCart Framework - Logined in successfully
+12 Jun 2024 22:46:03,498 [main] INFO OpenCart Framework - onTestSuccess :- verifyLoginTestWithValidDetails
+12 Jun 2024 22:46:03,784 [main] INFO OpenCart Framework - end
+12 Jun 2024 22:46:06,662 [main] INFO OpenCart Framework - Browser is launching
+12 Jun 2024 22:46:06,665 [main] INFO OpenCart Framework - onTestStart :- verifyRegisterTestWithInvalidEmailDetails
+12 Jun 2024 22:46:07,391 [main] INFO OpenCart Framework - navigate to Register Page 
+12 Jun 2024 22:46:08,710 [main] INFO OpenCart Framework - user register successfully..
+12 Jun 2024 22:46:08,764 [main] INFO OpenCart Framework - onTestSuccess :- verifyRegisterTestWithInvalidEmailDetails
+12 Jun 2024 22:46:09,030 [main] INFO OpenCart Framework - end
+12 Jun 2024 22:46:12,110 [main] INFO OpenCart Framework - Browser is launching
+12 Jun 2024 22:46:12,112 [main] INFO OpenCart Framework - onTestStart :- verifyRegisterTestWithInvalidPasswordDetails
+12 Jun 2024 22:46:12,796 [main] INFO OpenCart Framework - navigate to Register Page 
+12 Jun 2024 22:46:13,990 [main] INFO OpenCart Framework - user register successfully..
+12 Jun 2024 22:46:14,042 [main] INFO OpenCart Framework - onTestSuccess :- verifyRegisterTestWithInvalidPasswordDetails
+12 Jun 2024 22:46:14,358 [main] INFO OpenCart Framework - end
+12 Jun 2024 22:46:17,039 [main] INFO OpenCart Framework - Browser is launching
+12 Jun 2024 22:46:17,045 [main] INFO OpenCart Framework - onTestStart :- verifyRegisterTestWithValidDetails
+12 Jun 2024 22:46:17,810 [main] INFO OpenCart Framework - navigate to Register Page 
+12 Jun 2024 22:46:18,974 [main] INFO OpenCart Framework - user register successfully..
+12 Jun 2024 22:46:19,029 [main] INFO OpenCart Framework - onTestFailure :- verifyRegisterTestWithValidDetails
+12 Jun 2024 22:46:19,527 [main] INFO OpenCart Framework - end
+12 Jun 2024 22:46:19,528 [main] INFO OpenCart Framework - Framework Execution End
+13 Jun 2024 18:51:13,530 [main] INFO OpenCart Framework - Framework Execution Started
+13 Jun 2024 18:51:19,906 [main] INFO OpenCart Framework - Browser is launching
+13 Jun 2024 18:51:19,924 [main] INFO OpenCart Framework - onTestStart :- verifyLoginTestWithInvalidDetails
+13 Jun 2024 18:51:21,055 [main] INFO OpenCart Framework - navigated to Login page
+13 Jun 2024 18:51:22,005 [main] INFO OpenCart Framework - Logined in successfully
+13 Jun 2024 18:51:22,086 [main] INFO OpenCart Framework - onTestSuccess :- verifyLoginTestWithInvalidDetails
+13 Jun 2024 18:51:22,705 [main] INFO OpenCart Framework - end
+13 Jun 2024 18:51:26,293 [main] INFO OpenCart Framework - Browser is launching
+13 Jun 2024 18:51:26,296 [main] INFO OpenCart Framework - onTestStart :- verifyLoginTestWithValidDetails
+13 Jun 2024 18:51:27,320 [main] INFO OpenCart Framework - navigated to Login page
+13 Jun 2024 18:51:28,556 [main] INFO OpenCart Framework - Logined in successfully
+13 Jun 2024 18:51:28,591 [main] INFO OpenCart Framework - onTestSuccess :- verifyLoginTestWithValidDetails
+13 Jun 2024 18:51:29,158 [main] INFO OpenCart Framework - end
+13 Jun 2024 18:51:32,739 [main] INFO OpenCart Framework - Browser is launching
+13 Jun 2024 18:51:32,746 [main] INFO OpenCart Framework - onTestStart :- verifyRegisterTestWithInvalidEmailDetails
+13 Jun 2024 18:51:33,961 [main] INFO OpenCart Framework - navigate to Register Page 
+13 Jun 2024 18:51:35,794 [main] INFO OpenCart Framework - user register successfully..
+13 Jun 2024 18:51:35,935 [main] INFO OpenCart Framework - onTestSuccess :- verifyRegisterTestWithInvalidEmailDetails
+13 Jun 2024 18:51:36,485 [main] INFO OpenCart Framework - end
+13 Jun 2024 18:51:40,044 [main] INFO OpenCart Framework - Browser is launching
+13 Jun 2024 18:51:40,049 [main] INFO OpenCart Framework - onTestStart :- verifyRegisterTestWithInvalidPasswordDetails
+13 Jun 2024 18:51:41,404 [main] INFO OpenCart Framework - navigate to Register Page 
+13 Jun 2024 18:51:43,256 [main] INFO OpenCart Framework - user register successfully..
+13 Jun 2024 18:51:43,336 [main] INFO OpenCart Framework - onTestSuccess :- verifyRegisterTestWithInvalidPasswordDetails
+13 Jun 2024 18:51:43,894 [main] INFO OpenCart Framework - end
+13 Jun 2024 18:51:47,424 [main] INFO OpenCart Framework - Browser is launching
+13 Jun 2024 18:51:47,432 [main] INFO OpenCart Framework - onTestStart :- verifyRegisterTestWithValidDetails
+13 Jun 2024 18:51:48,977 [main] INFO OpenCart Framework - navigate to Register Page 
+13 Jun 2024 18:51:50,764 [main] INFO OpenCart Framework - user register successfully..
+13 Jun 2024 18:51:50,827 [main] INFO OpenCart Framework - onTestFailure :- verifyRegisterTestWithValidDetails
+13 Jun 2024 18:51:51,613 [main] INFO OpenCart Framework - end
+13 Jun 2024 18:51:51,620 [main] INFO OpenCart Framework - Framework Execution End
+17 Jun 2024 20:00:18,977 [main] INFO OpenCart Framework - Framework Execution Started
+17 Jun 2024 20:00:24,681 [main] INFO OpenCart Framework - Browser is launching
+17 Jun 2024 20:00:24,694 [main] INFO OpenCart Framework - onTestStart :- verifyLoginTestWithInvalidDetails
+17 Jun 2024 20:00:25,557 [main] INFO OpenCart Framework - navigated to Login page
+17 Jun 2024 20:00:26,248 [main] INFO OpenCart Framework - Logined in successfully
+17 Jun 2024 20:00:26,338 [main] INFO OpenCart Framework - onTestSuccess :- verifyLoginTestWithInvalidDetails
+17 Jun 2024 20:00:26,683 [main] INFO OpenCart Framework - end
+17 Jun 2024 20:00:29,416 [main] INFO OpenCart Framework - Browser is launching
+17 Jun 2024 20:00:29,419 [main] INFO OpenCart Framework - onTestStart :- verifyLoginTestWithValidDetails
+17 Jun 2024 20:00:30,480 [main] INFO OpenCart Framework - navigated to Login page
+17 Jun 2024 20:00:31,299 [main] INFO OpenCart Framework - Logined in successfully
+17 Jun 2024 20:00:31,321 [main] INFO OpenCart Framework - onTestSuccess :- verifyLoginTestWithValidDetails
+17 Jun 2024 20:00:31,618 [main] INFO OpenCart Framework - end
+17 Jun 2024 20:00:34,265 [main] INFO OpenCart Framework - Browser is launching
+17 Jun 2024 20:00:34,269 [main] INFO OpenCart Framework - onTestStart :- verifyRegisterTestWithInvalidEmailDetails
+17 Jun 2024 20:00:35,145 [main] INFO OpenCart Framework - navigate to Register Page 
+17 Jun 2024 20:00:36,302 [main] INFO OpenCart Framework - user register successfully..
+17 Jun 2024 20:00:36,366 [main] INFO OpenCart Framework - onTestSuccess :- verifyRegisterTestWithInvalidEmailDetails
+17 Jun 2024 20:00:36,661 [main] INFO OpenCart Framework - end
+17 Jun 2024 20:00:39,291 [main] INFO OpenCart Framework - Browser is launching
+17 Jun 2024 20:00:39,294 [main] INFO OpenCart Framework - onTestStart :- verifyRegisterTestWithInvalidPasswordDetails
+17 Jun 2024 20:00:40,238 [main] INFO OpenCart Framework - navigate to Register Page 
+17 Jun 2024 20:00:41,408 [main] INFO OpenCart Framework - user register successfully..
+17 Jun 2024 20:00:41,455 [main] INFO OpenCart Framework - onTestSuccess :- verifyRegisterTestWithInvalidPasswordDetails
+17 Jun 2024 20:00:41,747 [main] INFO OpenCart Framework - end
+17 Jun 2024 20:00:44,518 [main] INFO OpenCart Framework - Browser is launching
+17 Jun 2024 20:00:44,522 [main] INFO OpenCart Framework - onTestStart :- verifyRegisterTestWithValidDetails
+17 Jun 2024 20:00:45,391 [main] INFO OpenCart Framework - navigate to Register Page 
+17 Jun 2024 20:00:46,469 [main] INFO OpenCart Framework - user register successfully..
+17 Jun 2024 20:00:46,518 [main] INFO OpenCart Framework - onTestFailure :- verifyRegisterTestWithValidDetails
+17 Jun 2024 20:00:47,044 [main] INFO OpenCart Framework - end
+17 Jun 2024 20:00:47,047 [main] INFO OpenCart Framework - Framework Execution End
+17 Jun 2024 20:17:45,225 [main] INFO OpenCart Framework - Framework Execution Started
+17 Jun 2024 20:17:49,572 [main] INFO OpenCart Framework - Browser is launching
+17 Jun 2024 20:17:49,580 [main] INFO OpenCart Framework - onTestStart :- verifyLoginTestWithInvalidDetails
+17 Jun 2024 20:17:50,603 [main] INFO OpenCart Framework - navigated to Login page
+17 Jun 2024 20:17:51,312 [main] INFO OpenCart Framework - Logined in successfully
+17 Jun 2024 20:17:51,373 [main] INFO OpenCart Framework - onTestSuccess :- verifyLoginTestWithInvalidDetails
+17 Jun 2024 20:17:51,742 [main] INFO OpenCart Framework - end
+17 Jun 2024 20:17:54,581 [main] INFO OpenCart Framework - Browser is launching
+17 Jun 2024 20:17:54,584 [main] INFO OpenCart Framework - onTestStart :- verifyLoginTestWithValidDetails
+17 Jun 2024 20:17:55,414 [main] INFO OpenCart Framework - navigated to Login page
+17 Jun 2024 20:17:56,165 [main] INFO OpenCart Framework - Logined in successfully
+17 Jun 2024 20:17:56,315 [main] INFO OpenCart Framework - onTestSuccess :- verifyLoginTestWithValidDetails
+17 Jun 2024 20:17:56,605 [main] INFO OpenCart Framework - end
+17 Jun 2024 20:17:59,140 [main] INFO OpenCart Framework - Browser is launching
+17 Jun 2024 20:17:59,144 [main] INFO OpenCart Framework - onTestStart :- verifyRegisterTestWithInvalidEmailDetails
+17 Jun 2024 20:18:00,074 [main] INFO OpenCart Framework - navigate to Register Page 
+17 Jun 2024 20:18:01,243 [main] INFO OpenCart Framework - user register successfully..
+17 Jun 2024 20:18:01,317 [main] INFO OpenCart Framework - onTestSuccess :- verifyRegisterTestWithInvalidEmailDetails
+17 Jun 2024 20:18:01,735 [main] INFO OpenCart Framework - end
+17 Jun 2024 20:18:04,930 [main] INFO OpenCart Framework - Browser is launching
+17 Jun 2024 20:18:04,931 [main] INFO OpenCart Framework - onTestStart :- verifyRegisterTestWithInvalidPasswordDetails
+17 Jun 2024 20:18:05,588 [main] INFO OpenCart Framework - navigate to Register Page 
+17 Jun 2024 20:18:06,757 [main] INFO OpenCart Framework - user register successfully..
+17 Jun 2024 20:18:06,797 [main] INFO OpenCart Framework - onTestSuccess :- verifyRegisterTestWithInvalidPasswordDetails
+17 Jun 2024 20:18:07,150 [main] INFO OpenCart Framework - end
+17 Jun 2024 20:18:09,727 [main] INFO OpenCart Framework - Browser is launching
+17 Jun 2024 20:18:09,728 [main] INFO OpenCart Framework - onTestStart :- verifyRegisterTestWithValidDetails
+17 Jun 2024 20:18:10,485 [main] INFO OpenCart Framework - navigate to Register Page 
+17 Jun 2024 20:18:11,661 [main] INFO OpenCart Framework - user register successfully..
+17 Jun 2024 20:18:11,714 [main] INFO OpenCart Framework - onTestFailure :- verifyRegisterTestWithValidDetails
+17 Jun 2024 20:18:12,166 [main] INFO OpenCart Framework - end
+17 Jun 2024 20:18:12,170 [main] INFO OpenCart Framework - Framework Execution End
+17 Jun 2024 20:19:51,421 [main] INFO OpenCart Framework - Framework Execution Started
+17 Jun 2024 20:19:55,034 [main] INFO OpenCart Framework - Browser is launching
+17 Jun 2024 20:19:55,038 [main] INFO OpenCart Framework - onTestStart :- verifyLoginTestWithInvalidDetails
+17 Jun 2024 20:19:55,551 [main] INFO OpenCart Framework - navigated to Login page
+17 Jun 2024 20:19:56,355 [main] INFO OpenCart Framework - Logined in successfully
+17 Jun 2024 20:19:56,444 [main] INFO OpenCart Framework - onTestSuccess :- verifyLoginTestWithInvalidDetails
+17 Jun 2024 20:19:56,820 [main] INFO OpenCart Framework - end
+17 Jun 2024 20:19:59,524 [main] INFO OpenCart Framework - Browser is launching
+17 Jun 2024 20:19:59,527 [main] INFO OpenCart Framework - onTestStart :- verifyLoginTestWithValidDetails
+17 Jun 2024 20:20:00,170 [main] INFO OpenCart Framework - navigated to Login page
+17 Jun 2024 20:20:01,123 [main] INFO OpenCart Framework - Logined in successfully
+17 Jun 2024 20:20:01,142 [main] INFO OpenCart Framework - onTestSuccess :- verifyLoginTestWithValidDetails
+17 Jun 2024 20:20:01,434 [main] INFO OpenCart Framework - end
+17 Jun 2024 20:20:04,122 [main] INFO OpenCart Framework - Browser is launching
+17 Jun 2024 20:20:04,124 [main] INFO OpenCart Framework - onTestStart :- verifyRegisterTestWithInvalidEmailDetails
+17 Jun 2024 20:20:04,957 [main] INFO OpenCart Framework - navigate to Register Page 
+17 Jun 2024 20:20:06,173 [main] INFO OpenCart Framework - user register successfully..
+17 Jun 2024 20:20:06,226 [main] INFO OpenCart Framework - onTestSuccess :- verifyRegisterTestWithInvalidEmailDetails
+17 Jun 2024 20:20:06,563 [main] INFO OpenCart Framework - end
+17 Jun 2024 20:20:09,503 [main] INFO OpenCart Framework - Browser is launching
+17 Jun 2024 20:20:09,506 [main] INFO OpenCart Framework - onTestStart :- verifyRegisterTestWithInvalidPasswordDetails
+17 Jun 2024 20:20:10,547 [main] INFO OpenCart Framework - navigate to Register Page 
+17 Jun 2024 20:20:11,913 [main] INFO OpenCart Framework - user register successfully..
+17 Jun 2024 20:20:11,962 [main] INFO OpenCart Framework - onTestSuccess :- verifyRegisterTestWithInvalidPasswordDetails
+17 Jun 2024 20:20:12,305 [main] INFO OpenCart Framework - end
+17 Jun 2024 20:20:15,540 [main] INFO OpenCart Framework - Browser is launching
+17 Jun 2024 20:20:15,541 [main] INFO OpenCart Framework - onTestStart :- verifyRegisterTestWithValidDetails
+17 Jun 2024 20:20:16,835 [main] INFO OpenCart Framework - navigate to Register Page 
+17 Jun 2024 20:20:18,536 [main] INFO OpenCart Framework - user register successfully..
+17 Jun 2024 20:20:18,586 [main] INFO OpenCart Framework - onTestFailure :- verifyRegisterTestWithValidDetails
+17 Jun 2024 20:20:18,999 [main] INFO OpenCart Framework - end
+17 Jun 2024 20:20:21,903 [main] INFO OpenCart Framework - Browser is launching
+17 Jun 2024 20:20:21,904 [main] INFO OpenCart Framework - onTestStart :- verifyAddressTestWithValidDetails
+17 Jun 2024 20:20:26,386 [main] INFO OpenCart Framework - onTestSuccess :- verifyAddressTestWithValidDetails
+17 Jun 2024 20:20:26,653 [main] INFO OpenCart Framework - end
+17 Jun 2024 20:20:29,314 [main] INFO OpenCart Framework - Browser is launching
+17 Jun 2024 20:20:29,321 [main] INFO OpenCart Framework - onTestStart :- verifyAddressTestByDeletingExisitngAddress
+17 Jun 2024 20:20:51,706 [main] INFO OpenCart Framework - onTestFailure :- verifyAddressTestByDeletingExisitngAddress
+17 Jun 2024 20:20:52,164 [main] INFO OpenCart Framework - end
+17 Jun 2024 20:20:54,915 [main] INFO OpenCart Framework - Browser is launching
+17 Jun 2024 20:20:54,916 [main] INFO OpenCart Framework - onTestStart :- verifyAddressTestByeditingExisitngAddress
+17 Jun 2024 20:20:58,293 [main] INFO OpenCart Framework - onTestSuccess :- verifyAddressTestByeditingExisitngAddress
+17 Jun 2024 20:20:58,587 [main] INFO OpenCart Framework - end
+17 Jun 2024 20:20:58,592 [main] INFO OpenCart Framework - Framework Execution End
+17 Jun 2024 23:23:13,952 [main] INFO OpenCart Framework - Framework Execution Started
+17 Jun 2024 23:23:17,888 [main] INFO OpenCart Framework - Browser is launching
+17 Jun 2024 23:23:17,980 [main] INFO OpenCart Framework - navigated to address page
+17 Jun 2024 23:23:22,730 [main] INFO OpenCart Framework - address is added successfully
+17 Jun 2024 23:23:23,241 [main] INFO OpenCart Framework - end
+17 Jun 2024 23:23:25,959 [main] INFO OpenCart Framework - Browser is launching
+17 Jun 2024 23:23:25,972 [main] INFO OpenCart Framework - navigated to address page
+17 Jun 2024 23:23:28,191 [main] INFO OpenCart Framework - deleted existing address
+17 Jun 2024 23:23:48,894 [main] INFO OpenCart Framework - end
+17 Jun 2024 23:23:51,598 [main] INFO OpenCart Framework - Browser is launching
+17 Jun 2024 23:23:51,605 [main] INFO OpenCart Framework - navigated to address page
+17 Jun 2024 23:23:54,934 [main] INFO OpenCart Framework - edited the existing address
+17 Jun 2024 23:23:55,245 [main] INFO OpenCart Framework - end
+17 Jun 2024 23:23:55,246 [main] INFO OpenCart Framework - Framework Execution End
+17 Jun 2024 23:24:22,192 [main] INFO OpenCart Framework - Framework Execution Started
+17 Jun 2024 23:24:25,539 [main] INFO OpenCart Framework - Browser is launching
+17 Jun 2024 23:24:25,550 [main] INFO OpenCart Framework - onTestStart :- verifyLoginTestWithInvalidDetails
+17 Jun 2024 23:24:26,331 [main] INFO OpenCart Framework - navigated to Login page
+17 Jun 2024 23:24:26,883 [main] INFO OpenCart Framework - Logined in successfully
+17 Jun 2024 23:24:27,023 [main] INFO OpenCart Framework - onTestSuccess :- verifyLoginTestWithInvalidDetails
+17 Jun 2024 23:24:27,352 [main] INFO OpenCart Framework - end
+17 Jun 2024 23:24:30,106 [main] INFO OpenCart Framework - Browser is launching
+17 Jun 2024 23:24:30,114 [main] INFO OpenCart Framework - onTestStart :- verifyLoginTestWithValidDetails
+17 Jun 2024 23:24:30,976 [main] INFO OpenCart Framework - navigated to Login page
+17 Jun 2024 23:24:31,759 [main] INFO OpenCart Framework - Logined in successfully
+17 Jun 2024 23:24:31,779 [main] INFO OpenCart Framework - onTestSuccess :- verifyLoginTestWithValidDetails
+17 Jun 2024 23:24:32,044 [main] INFO OpenCart Framework - end
+17 Jun 2024 23:24:34,770 [main] INFO OpenCart Framework - Browser is launching
+17 Jun 2024 23:24:34,775 [main] INFO OpenCart Framework - onTestStart :- verifyRegisterTestWithInvalidEmailDetails
+17 Jun 2024 23:24:35,540 [main] INFO OpenCart Framework - navigate to Register Page 
+17 Jun 2024 23:24:36,731 [main] INFO OpenCart Framework - user register successfully..
+17 Jun 2024 23:24:36,785 [main] INFO OpenCart Framework - onTestSuccess :- verifyRegisterTestWithInvalidEmailDetails
+17 Jun 2024 23:24:37,064 [main] INFO OpenCart Framework - end
+17 Jun 2024 23:24:39,846 [main] INFO OpenCart Framework - Browser is launching
+17 Jun 2024 23:24:39,851 [main] INFO OpenCart Framework - onTestStart :- verifyRegisterTestWithInvalidPasswordDetails
+17 Jun 2024 23:24:40,612 [main] INFO OpenCart Framework - navigate to Register Page 
+17 Jun 2024 23:24:41,698 [main] INFO OpenCart Framework - user register successfully..
+17 Jun 2024 23:24:41,748 [main] INFO OpenCart Framework - onTestSuccess :- verifyRegisterTestWithInvalidPasswordDetails
+17 Jun 2024 23:24:42,033 [main] INFO OpenCart Framework - end
+17 Jun 2024 23:24:44,587 [main] INFO OpenCart Framework - Browser is launching
+17 Jun 2024 23:24:44,598 [main] INFO OpenCart Framework - onTestStart :- verifyRegisterTestWithValidDetails
+17 Jun 2024 23:24:45,941 [main] INFO OpenCart Framework - navigate to Register Page 
+17 Jun 2024 23:24:47,062 [main] INFO OpenCart Framework - user register successfully..
+17 Jun 2024 23:24:47,113 [main] INFO OpenCart Framework - onTestFailure :- verifyRegisterTestWithValidDetails
+17 Jun 2024 23:24:47,593 [main] INFO OpenCart Framework - end
+17 Jun 2024 23:24:50,180 [main] INFO OpenCart Framework - Browser is launching
+17 Jun 2024 23:24:50,183 [main] INFO OpenCart Framework - onTestStart :- verifyAddressTestWithValidDetails
+17 Jun 2024 23:24:50,193 [main] INFO OpenCart Framework - navigated to address page
+17 Jun 2024 23:24:54,583 [main] INFO OpenCart Framework - address is added successfully
+17 Jun 2024 23:24:54,665 [main] INFO OpenCart Framework - onTestSuccess :- verifyAddressTestWithValidDetails
+17 Jun 2024 23:24:54,996 [main] INFO OpenCart Framework - end
+17 Jun 2024 23:24:57,794 [main] INFO OpenCart Framework - Browser is launching
+17 Jun 2024 23:24:57,799 [main] INFO OpenCart Framework - onTestStart :- verifyAddressTestByDeletingExisitngAddress
+17 Jun 2024 23:24:57,801 [main] INFO OpenCart Framework - navigated to address page
+17 Jun 2024 23:24:59,760 [main] INFO OpenCart Framework - deleted existing address
+17 Jun 2024 23:25:20,132 [main] INFO OpenCart Framework - onTestFailure :- verifyAddressTestByDeletingExisitngAddress
+17 Jun 2024 23:25:20,580 [main] INFO OpenCart Framework - end
+17 Jun 2024 23:25:23,328 [main] INFO OpenCart Framework - Browser is launching
+17 Jun 2024 23:25:23,333 [main] INFO OpenCart Framework - onTestStart :- verifyAddressTestByeditingExisitngAddress
+17 Jun 2024 23:25:23,341 [main] INFO OpenCart Framework - navigated to address page
+17 Jun 2024 23:25:26,465 [main] INFO OpenCart Framework - edited the existing address
+17 Jun 2024 23:25:26,511 [main] INFO OpenCart Framework - onTestSuccess :- verifyAddressTestByeditingExisitngAddress
+17 Jun 2024 23:25:26,807 [main] INFO OpenCart Framework - end
+17 Jun 2024 23:25:26,810 [main] INFO OpenCart Framework - Framework Execution End
+17 Jun 2024 23:30:00,330 [main] INFO OpenCart Framework - Framework Execution Started
+17 Jun 2024 23:30:04,197 [main] INFO OpenCart Framework - Browser is launching
+17 Jun 2024 23:30:04,207 [main] INFO OpenCart Framework - onTestStart :- verifyLoginTestWithInvalidDetails
+17 Jun 2024 23:30:04,959 [main] INFO OpenCart Framework - navigated to Login page
+17 Jun 2024 23:30:05,618 [main] INFO OpenCart Framework - Logined in successfully
+17 Jun 2024 23:30:05,687 [main] INFO OpenCart Framework - onTestSuccess :- verifyLoginTestWithInvalidDetails
+17 Jun 2024 23:30:06,017 [main] INFO OpenCart Framework - end
+17 Jun 2024 23:30:08,737 [main] INFO OpenCart Framework - Browser is launching
+17 Jun 2024 23:30:08,741 [main] INFO OpenCart Framework - onTestStart :- verifyLoginTestWithValidDetails
+17 Jun 2024 23:30:09,409 [main] INFO OpenCart Framework - navigated to Login page
+17 Jun 2024 23:30:10,265 [main] INFO OpenCart Framework - Logined in successfully
+17 Jun 2024 23:30:10,288 [main] INFO OpenCart Framework - onTestSuccess :- verifyLoginTestWithValidDetails
+17 Jun 2024 23:30:10,577 [main] INFO OpenCart Framework - end
+17 Jun 2024 23:30:13,590 [main] INFO OpenCart Framework - Browser is launching
+17 Jun 2024 23:30:13,594 [main] INFO OpenCart Framework - onTestStart :- verifyRegisterTestWithInvalidEmailDetails
+17 Jun 2024 23:30:14,356 [main] INFO OpenCart Framework - navigate to Register Page 
+17 Jun 2024 23:30:15,528 [main] INFO OpenCart Framework - user register successfully..
+17 Jun 2024 23:30:15,591 [main] INFO OpenCart Framework - onTestSuccess :- verifyRegisterTestWithInvalidEmailDetails
+17 Jun 2024 23:30:15,883 [main] INFO OpenCart Framework - end
+17 Jun 2024 23:30:17,473 [main] INFO OpenCart Framework - onTestSkipped :- verifyRegisterTestWithInvalidPasswordDetails
+17 Jun 2024 23:30:17,502 [main] INFO OpenCart Framework - onTestSkipped :- verifyRegisterTestWithValidDetails
+17 Jun 2024 23:30:17,534 [main] INFO OpenCart Framework - onTestSkipped :- verifyAddressTestWithValidDetails
+17 Jun 2024 23:30:17,551 [main] INFO OpenCart Framework - onTestSkipped :- verifyAddressTestByDeletingExisitngAddress
+17 Jun 2024 23:30:17,560 [main] INFO OpenCart Framework - onTestSkipped :- verifyAddressTestByeditingExisitngAddress
+17 Jun 2024 23:31:01,113 [main] INFO OpenCart Framework - Framework Execution Started
+17 Jun 2024 23:31:05,886 [main] INFO OpenCart Framework - Browser is launching
+17 Jun 2024 23:31:05,905 [main] INFO OpenCart Framework - onTestStart :- verifyLoginTestWithInvalidDetails
+17 Jun 2024 23:31:06,866 [main] INFO OpenCart Framework - navigated to Login page
+17 Jun 2024 23:31:07,498 [main] INFO OpenCart Framework - Logined in successfully
+17 Jun 2024 23:31:07,626 [main] INFO OpenCart Framework - onTestSuccess :- verifyLoginTestWithInvalidDetails
+17 Jun 2024 23:31:07,960 [main] INFO OpenCart Framework - end
+17 Jun 2024 23:31:10,714 [main] INFO OpenCart Framework - Browser is launching
+17 Jun 2024 23:31:10,717 [main] INFO OpenCart Framework - onTestStart :- verifyLoginTestWithValidDetails
+17 Jun 2024 23:31:11,452 [main] INFO OpenCart Framework - navigated to Login page
+17 Jun 2024 23:31:12,318 [main] INFO OpenCart Framework - Logined in successfully
+17 Jun 2024 23:31:12,336 [main] INFO OpenCart Framework - onTestSuccess :- verifyLoginTestWithValidDetails
+17 Jun 2024 23:31:12,625 [main] INFO OpenCart Framework - end
+17 Jun 2024 23:31:15,534 [main] INFO OpenCart Framework - Browser is launching
+17 Jun 2024 23:31:15,537 [main] INFO OpenCart Framework - onTestStart :- verifyRegisterTestWithInvalidEmailDetails
+17 Jun 2024 23:31:16,549 [main] INFO OpenCart Framework - navigate to Register Page 
+17 Jun 2024 23:31:17,757 [main] INFO OpenCart Framework - user register successfully..
+17 Jun 2024 23:31:17,822 [main] INFO OpenCart Framework - onTestSuccess :- verifyRegisterTestWithInvalidEmailDetails
+17 Jun 2024 23:31:18,167 [main] INFO OpenCart Framework - end
+17 Jun 2024 23:31:20,791 [main] INFO OpenCart Framework - Browser is launching
+17 Jun 2024 23:31:20,796 [main] INFO OpenCart Framework - onTestStart :- verifyRegisterTestWithInvalidPasswordDetails
+17 Jun 2024 23:31:21,611 [main] INFO OpenCart Framework - navigate to Register Page 
+17 Jun 2024 23:31:22,885 [main] INFO OpenCart Framework - user register successfully..
+17 Jun 2024 23:31:22,934 [main] INFO OpenCart Framework - onTestSuccess :- verifyRegisterTestWithInvalidPasswordDetails
+17 Jun 2024 23:31:23,235 [main] INFO OpenCart Framework - end
+17 Jun 2024 23:31:25,915 [main] INFO OpenCart Framework - Browser is launching
+17 Jun 2024 23:31:25,928 [main] INFO OpenCart Framework - onTestStart :- verifyRegisterTestWithValidDetails
+17 Jun 2024 23:31:26,801 [main] INFO OpenCart Framework - navigate to Register Page 
+17 Jun 2024 23:31:28,057 [main] INFO OpenCart Framework - user register successfully..
+17 Jun 2024 23:31:28,107 [main] INFO OpenCart Framework - onTestFailure :- verifyRegisterTestWithValidDetails
+17 Jun 2024 23:31:28,589 [main] INFO OpenCart Framework - end
+17 Jun 2024 23:31:31,394 [main] INFO OpenCart Framework - Browser is launching
+17 Jun 2024 23:31:31,397 [main] INFO OpenCart Framework - onTestStart :- verifyAddressTestWithValidDetails
+17 Jun 2024 23:31:31,401 [main] INFO OpenCart Framework - navigated to address page
+17 Jun 2024 23:31:35,698 [main] INFO OpenCart Framework - address is added successfully
+17 Jun 2024 23:31:35,759 [main] INFO OpenCart Framework - onTestSuccess :- verifyAddressTestWithValidDetails
+17 Jun 2024 23:31:36,067 [main] INFO OpenCart Framework - end
+17 Jun 2024 23:31:38,708 [main] INFO OpenCart Framework - Browser is launching
+17 Jun 2024 23:31:38,711 [main] INFO OpenCart Framework - onTestStart :- verifyAddressTestByDeletingExisitngAddress
+17 Jun 2024 23:31:38,713 [main] INFO OpenCart Framework - navigated to address page
+17 Jun 2024 23:31:40,433 [main] INFO OpenCart Framework - deleted existing address
+17 Jun 2024 23:32:00,763 [main] INFO OpenCart Framework - onTestFailure :- verifyAddressTestByDeletingExisitngAddress
+17 Jun 2024 23:32:01,268 [main] INFO OpenCart Framework - end
+17 Jun 2024 23:32:04,173 [main] INFO OpenCart Framework - Browser is launching
+17 Jun 2024 23:32:04,177 [main] INFO OpenCart Framework - onTestStart :- verifyAddressTestByeditingExisitngAddress
+17 Jun 2024 23:32:04,179 [main] INFO OpenCart Framework - navigated to address page
+17 Jun 2024 23:32:07,206 [main] INFO OpenCart Framework - edited the existing address
+17 Jun 2024 23:32:07,265 [main] INFO OpenCart Framework - onTestSuccess :- verifyAddressTestByeditingExisitngAddress
+17 Jun 2024 23:32:07,593 [main] INFO OpenCart Framework - end
+17 Jun 2024 23:32:07,594 [main] INFO OpenCart Framework - Framework Execution End
+18 Jun 2024 00:04:47,264 [main] INFO OpenCart Framework - Framework Execution Started
+18 Jun 2024 00:04:51,008 [main] INFO OpenCart Framework - Browser is launching
+18 Jun 2024 00:04:51,093 [main] INFO OpenCart Framework - navigated to address page
+18 Jun 2024 00:04:56,365 [main] INFO OpenCart Framework - address is added successfully
+18 Jun 2024 00:04:56,769 [main] INFO OpenCart Framework - end
+18 Jun 2024 00:04:59,674 [main] INFO OpenCart Framework - Browser is launching
+18 Jun 2024 00:04:59,690 [main] INFO OpenCart Framework - navigated to address page
+18 Jun 2024 00:05:02,301 [main] INFO OpenCart Framework - end
+18 Jun 2024 00:05:04,959 [main] INFO OpenCart Framework - Browser is launching
+18 Jun 2024 00:05:04,973 [main] INFO OpenCart Framework - navigated to address page
+18 Jun 2024 00:05:06,893 [main] INFO OpenCart Framework - deleted existing address
+18 Jun 2024 00:05:07,730 [main] INFO OpenCart Framework - end
+18 Jun 2024 00:05:10,495 [main] INFO OpenCart Framework - Browser is launching
+18 Jun 2024 00:05:10,505 [main] INFO OpenCart Framework - navigated to address page
+18 Jun 2024 00:05:14,196 [main] INFO OpenCart Framework - edited the existing address
+18 Jun 2024 00:05:14,545 [main] INFO OpenCart Framework - end
+18 Jun 2024 00:05:14,549 [main] INFO OpenCart Framework - Framework Execution End
+18 Jun 2024 00:07:08,807 [main] INFO OpenCart Framework - Framework Execution Started
+18 Jun 2024 00:07:12,309 [main] INFO OpenCart Framework - Browser is launching
+18 Jun 2024 00:07:12,408 [main] INFO OpenCart Framework - navigated to address page
+18 Jun 2024 00:07:14,711 [main] INFO OpenCart Framework - deleted existing address
+18 Jun 2024 00:07:35,094 [main] INFO OpenCart Framework - end
+18 Jun 2024 00:07:35,098 [main] INFO OpenCart Framework - Framework Execution End
+18 Jun 2024 00:09:53,880 [main] INFO OpenCart Framework - Framework Execution Started
+18 Jun 2024 00:09:57,318 [main] INFO OpenCart Framework - Browser is launching
+18 Jun 2024 00:09:57,403 [main] INFO OpenCart Framework - navigated to address page
+18 Jun 2024 00:09:59,525 [main] INFO OpenCart Framework - deleted existing address
+18 Jun 2024 00:10:00,384 [main] INFO OpenCart Framework - end
+18 Jun 2024 00:10:00,399 [main] INFO OpenCart Framework - Framework Execution End
+18 Jun 2024 00:10:26,624 [main] INFO OpenCart Framework - Framework Execution Started
+18 Jun 2024 00:10:30,232 [main] INFO OpenCart Framework - Browser is launching
+18 Jun 2024 00:10:30,244 [main] INFO OpenCart Framework - onTestStart :- verifyLoginTestWithInvalidDetails
+18 Jun 2024 00:10:30,983 [main] INFO OpenCart Framework - navigated to Login page
+18 Jun 2024 00:10:31,673 [main] INFO OpenCart Framework - Logined in successfully
+18 Jun 2024 00:10:31,728 [main] INFO OpenCart Framework - onTestSuccess :- verifyLoginTestWithInvalidDetails
+18 Jun 2024 00:10:32,015 [main] INFO OpenCart Framework - end
+18 Jun 2024 00:10:34,896 [main] INFO OpenCart Framework - Browser is launching
+18 Jun 2024 00:10:34,898 [main] INFO OpenCart Framework - onTestStart :- verifyLoginTestWithValidDetails
+18 Jun 2024 00:10:35,818 [main] INFO OpenCart Framework - navigated to Login page
+18 Jun 2024 00:10:36,562 [main] INFO OpenCart Framework - Logined in successfully
+18 Jun 2024 00:10:36,580 [main] INFO OpenCart Framework - onTestSuccess :- verifyLoginTestWithValidDetails
+18 Jun 2024 00:10:36,873 [main] INFO OpenCart Framework - end
+18 Jun 2024 00:10:40,062 [main] INFO OpenCart Framework - Browser is launching
+18 Jun 2024 00:10:40,065 [main] INFO OpenCart Framework - onTestStart :- verifyRegisterTestWithInvalidEmailDetails
+18 Jun 2024 00:10:40,826 [main] INFO OpenCart Framework - navigate to Register Page 
+18 Jun 2024 00:10:42,035 [main] INFO OpenCart Framework - user register successfully..
+18 Jun 2024 00:10:42,100 [main] INFO OpenCart Framework - onTestSuccess :- verifyRegisterTestWithInvalidEmailDetails
+18 Jun 2024 00:10:42,396 [main] INFO OpenCart Framework - end
+18 Jun 2024 00:10:45,346 [main] INFO OpenCart Framework - Browser is launching
+18 Jun 2024 00:10:45,348 [main] INFO OpenCart Framework - onTestStart :- verifyRegisterTestWithInvalidPasswordDetails
+18 Jun 2024 00:10:46,104 [main] INFO OpenCart Framework - navigate to Register Page 
+18 Jun 2024 00:10:47,331 [main] INFO OpenCart Framework - user register successfully..
+18 Jun 2024 00:10:47,381 [main] INFO OpenCart Framework - onTestSuccess :- verifyRegisterTestWithInvalidPasswordDetails
+18 Jun 2024 00:10:47,645 [main] INFO OpenCart Framework - end
+18 Jun 2024 00:10:50,394 [main] INFO OpenCart Framework - Browser is launching
+18 Jun 2024 00:10:50,397 [main] INFO OpenCart Framework - onTestStart :- verifyRegisterTestWithValidDetails
+18 Jun 2024 00:10:51,183 [main] INFO OpenCart Framework - navigate to Register Page 
+18 Jun 2024 00:10:52,386 [main] INFO OpenCart Framework - user register successfully..
+18 Jun 2024 00:10:52,437 [main] INFO OpenCart Framework - onTestFailure :- verifyRegisterTestWithValidDetails
+18 Jun 2024 00:10:52,913 [main] INFO OpenCart Framework - end
+18 Jun 2024 00:10:55,897 [main] INFO OpenCart Framework - Browser is launching
+18 Jun 2024 00:10:55,899 [main] INFO OpenCart Framework - onTestStart :- verifyAddressTestWithValidDetails
+18 Jun 2024 00:10:55,912 [main] INFO OpenCart Framework - navigated to address page
+18 Jun 2024 00:11:00,481 [main] INFO OpenCart Framework - address is added successfully
+18 Jun 2024 00:11:00,529 [main] INFO OpenCart Framework - onTestSuccess :- verifyAddressTestWithValidDetails
+18 Jun 2024 00:11:00,816 [main] INFO OpenCart Framework - end
+18 Jun 2024 00:11:03,796 [main] INFO OpenCart Framework - Browser is launching
+18 Jun 2024 00:11:03,799 [main] INFO OpenCart Framework - onTestStart :- verifyAddressTestByDeletingExisitngAddress
+18 Jun 2024 00:11:03,801 [main] INFO OpenCart Framework - navigated to address page
+18 Jun 2024 00:11:05,831 [main] INFO OpenCart Framework - deleted existing address
+18 Jun 2024 00:11:06,191 [main] INFO OpenCart Framework - onTestSuccess :- verifyAddressTestByDeletingExisitngAddress
+18 Jun 2024 00:11:06,488 [main] INFO OpenCart Framework - end
+18 Jun 2024 00:11:09,299 [main] INFO OpenCart Framework - Browser is launching
+18 Jun 2024 00:11:09,301 [main] INFO OpenCart Framework - onTestStart :- verifyAddressTestByDeletingNewAddress
+18 Jun 2024 00:11:09,306 [main] INFO OpenCart Framework - navigated to address page
+18 Jun 2024 00:11:11,111 [main] INFO OpenCart Framework - deleted existing address
+18 Jun 2024 00:11:11,712 [main] INFO OpenCart Framework - onTestSuccess :- verifyAddressTestByDeletingNewAddress
+18 Jun 2024 00:11:11,990 [main] INFO OpenCart Framework - end
+18 Jun 2024 00:11:14,792 [main] INFO OpenCart Framework - Browser is launching
+18 Jun 2024 00:11:14,794 [main] INFO OpenCart Framework - onTestStart :- verifyAddressTestByeditingExisitngAddress
+18 Jun 2024 00:11:14,799 [main] INFO OpenCart Framework - navigated to address page
+18 Jun 2024 00:11:18,111 [main] INFO OpenCart Framework - edited the existing address
+18 Jun 2024 00:11:18,154 [main] INFO OpenCart Framework - onTestSuccess :- verifyAddressTestByeditingExisitngAddress
+18 Jun 2024 00:11:18,457 [main] INFO OpenCart Framework - end
+18 Jun 2024 00:11:18,458 [main] INFO OpenCart Framework - Framework Execution End

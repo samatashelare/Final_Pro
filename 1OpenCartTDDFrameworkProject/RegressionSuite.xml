@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="RegressionSuite">
+	<listeners>
+		<listener class-name="com.opencart.utility.ListenersSetup"/>
+		<listener class-name="com.opencart.utility.ExtentReporterNG"/>
+	</listeners>
+	
+  <test name="Test">
+    <classes>
+      <class name="com.opencart.testCases.LoginTest"/>
+      <class name="com.opencart.testCases.RegisterTest"/>
+       <class name="com.opencart.testCases.AddressTest"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- RegressionSuite -->

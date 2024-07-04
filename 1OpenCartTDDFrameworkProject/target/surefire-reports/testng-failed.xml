@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [RegressionSuite]" guice-stage="DEVELOPMENT" verbose="0">
+  <listeners>
+    <listener class-name="com.opencart.utility.ListenersSetup"/>
+    <listener class-name="com.opencart.utility.ExtentReporterNG"/>
+  </listeners>
+  <test thread-count="5" name="Test(failed)" verbose="0">
+    <classes>
+      <class name="com.opencart.testCases.AddressTest">
+        <methods>
+          <include name="browserSetUp"/>
+          <include name="start"/>
+          <include name="tearDown"/>
+          <include name="end"/>
+          <include name="verifyAddressTestByDeletingExisitngAddress"/>
+        </methods>
+      </class> <!-- com.opencart.testCases.AddressTest -->
+      <class name="com.opencart.testCases.RegisterTest">
+        <methods>
+          <include name="browserSetUp"/>
+          <include name="verifyRegisterTestWithValidDetails"/>
+          <include name="start"/>
+          <include name="tearDown"/>
+          <include name="end"/>
+        </methods>
+      </class> <!-- com.opencart.testCases.RegisterTest -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [RegressionSuite] -->
